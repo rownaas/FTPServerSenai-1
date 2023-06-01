@@ -34,3 +34,4 @@ function checkLogin(event) {
     // Exibir mensagem de erro ou realizar outras ações de acordo com o resultado do login
     alert('Usuário ou senha inválidos!');
   }
+}
